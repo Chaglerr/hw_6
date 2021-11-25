@@ -1,0 +1,14 @@
+#app {
+    padding-top:  20px;
+    padding-bottom:  350px;
+    display: flex;
+    justify-content: center;
+    /*align-items: center;*/
+}
+
+#calculator {
+    background-color: red;
+    padding:  10px;
+    display:  inline-block;
+    margin:  auto;
+}
